@@ -635,10 +635,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ab971043-b215-4dcd-9e40-3f6c2883b420
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: PlateformerRunner2D
+  organizationId: salty-sea-aaa9cef0-56f9-46ed-9b3f-de4c37836357
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
